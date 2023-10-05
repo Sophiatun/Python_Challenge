@@ -5,11 +5,7 @@
 I created a new repository for this project called python-challenge
 Inside my local Git repository, I created a folder for PyBank and PyPoll
 
-Inside of each folder are the following:
-
-* A new file called `main.py`. The main script to run for each analysis 
-* A `Resources` folder that contains the CSV files used. Including correct csv_path  
-* An `analysis` folder that contains a text file with the results from the analysis
+Inside of each folder I created a file called `main.py', which is the the main script to run for each analysis and A `Resources` folder that contains the CSV files used
 
 For PyBank, I created a python script to analyze financial records to get the following values:
 
